@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
+title: 'Mood Dapp'
+cover: './mood.png'
+github: 'https://github.com/adiig7/Mood-Dapp'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://mood-dapp-delta.vercel.app'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Solidity
+  - Ethereum
+  - JavaScript
+  - Vercel
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+I built this Dapp using Solidity for writing the smart contract and HTML, CSS and Javascript for the frontend. The Smart Contract is deployed to the Rinkeby Test Network.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+This Dapp allows a user to set his/her to the blockchain and retrive his/her recent mood from the blockchain and display it on the screen.

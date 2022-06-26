@@ -1,11 +1,12 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
+title: 'Community Moderator'
+company: 'Free Web3 Community'
 location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+range: 'May 2022- Present'
+url: 'https://twitter.com/i/communities/1516012976070959105'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Monitor conversations and collaborate with other moderators to deal with any offensive material.
+- Encourage community members to interact with one another.
+- Help people in learning Web3.

@@ -266,7 +266,9 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
+            <a
+              href="https://www.notion.so/adiig7/Hey-I-am-Aditya-468f562988414c708dc98932e2cae62f"
+              className="resume-link">
               Resume
             </a>
           </nav>

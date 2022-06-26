@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Twitter Clone Dapp'
+cover: './twitter.png'
+github: 'https://github.com/adiig7/Twitter-Web3'
+external: 'https://twitter-web3-alpha.vercel.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Solidity
+  - Ethereum
+  - Hardhat
+  - Ethers.js
+  - ReactJS
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A web3 version of Twitter. A user can connect the wallet and add tweets on the blockchain and can delete them too. Tweets added by the users are shown in the feed.

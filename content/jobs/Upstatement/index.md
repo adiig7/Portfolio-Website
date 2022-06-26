@@ -1,12 +1,14 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-06-01'
+title: 'Community Advocate'
+company: 'Chainlink'
+location: 'Jaipur, India'
+range: 'June 2022 - Present'
+url: 'https://chain.link/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Host Web3 Meetups in Jaipur, India
+
+- Educate People on how Chainlink works
+
+- Providing a medium for developers to network with other talented developers and builders in the Web3 Space

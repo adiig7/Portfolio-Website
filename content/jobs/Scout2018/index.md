@@ -1,12 +1,12 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Solidity Developer'
+company: 'Komet'
+location: 'Remote'
+range: 'May - June 2022'
+url: 'https://komet.me/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Research upon the problems that the DAO face in the Onboarding, Treasury, Governance and Communication part from the technological domain.
+
+- Working upon the solution to the problems faced by building an SDK
